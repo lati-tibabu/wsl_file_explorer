@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "wsl-bridge-server": "file:.."
+  }
+}
