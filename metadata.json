@@ -1,0 +1,5 @@
+{
+  "name": "WSL File Explorer",
+  "description": "A web-based GUI to browse and interact with files within a local WSL (Windows Subsystem for Linux) instance. This application provides a simulated file explorer experience.",
+  "requestFramePermissions": []
+}
